@@ -1,0 +1,2 @@
+DS3231 AT24C32: http://omnigatherum.ca/wp/?p=87
+BMP180: https://github.com/adafruit/Fritzing-Library/tree/master/parts
